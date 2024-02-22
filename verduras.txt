@@ -4,3 +4,4 @@ calabaza
 patata 1 y apio
 tomate2
 lechuga 3
+albaricoque
