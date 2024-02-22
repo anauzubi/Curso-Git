@@ -2,3 +2,5 @@ pimiento
 cebolla
 calabaza
 patata 1 y apio
+tomate2
+
